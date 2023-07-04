@@ -1,4 +1,4 @@
-# Advanced-Power-BI-Super-Store-Sales-Dashboard-using-DAX-Queries-Time-Series-Analysis
+# Advanced-Power-BI-Super-Store-Sales-Dashboard
 
 Objective: To contribute to the success of the Business by utilizing data analytics techniques, 
 focusing on time series analysis, to provide valuable insights & accurate forecasting. 
